@@ -1,0 +1,32 @@
+_repo: Sea-and-ShoreA-Sequel-to--Miriam-s-Memoirs-_15117
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warfield, Catherine A. (Catherine Ann)
+    aliases:
+    - Warfield, C. A. (Catherine Ann)
+    - Lee, Catharine Ann
+    birthdate: 1816
+    deathdate: 1877
+    gutenberg_agent_id: '4378'
+    url: http://www.gutenberg.org/2009/agents/4378
+    wikipedia: http://en.wikipedia.org/wiki/Catherine_Anne_Warfield
+description: ''
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'Sea and Shore
+
+  A Sequel to "Miriam''s Memoirs"'
+url: http://www.gutenberg.org/ebooks/15117
